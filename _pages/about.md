@@ -26,4 +26,4 @@ latest_posts:
 
 I'm Ajinkya Mawal, an FDE & AI Engineer at [OnFinance AI](https://onfinance.ai), a GenAI company building AI agents for compliance, risk, and audit in the BFSI sector, and a final-year undergraduate at IIT Bombay ('26).
 
-My work centers on agentic AI systems — designing and shipping AI agents that operate reliably in real, high-stakes workflows rather than just demos. This site collects some of my agentic and ML side projects, from search/retrieval agent loops to learning-capture tools for coding agents.
+My work centers on agentic AI systems — designing and shipping AI agents that operate reliably in real, high-stakes workflows rather than just demos.
