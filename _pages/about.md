@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Ajinkya Mawal, a machine learning researcher and engineer interested in building and studying ML systems.
+I'm Ajinkya Mawal, an FDE & AI Engineer at [OnFinance AI](https://onfinance.ai), a GenAI company building AI agents for compliance, risk, and audit in the BFSI sector, and a final-year undergraduate at IIT Bombay ('26).
 
-This site collects my research, projects, and writing. Publications will appear automatically once added to `_bibliography/papers.bib`.
+My work centers on agentic AI systems — designing and shipping AI agents that operate reliably in real, high-stakes workflows rather than just demos. This site collects some of my agentic and ML side projects, from search/retrieval agent loops to learning-capture tools for coding agents.
